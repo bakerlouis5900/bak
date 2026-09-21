@@ -1,0 +1,47 @@
+## &#x274C; 亚马逊二审？ &#x274C; TikTok封店？ &#x274C; ChatGPT打不开？
+## &#x1F525; QQ|微信：33222811   ` `   进入网址：[ip7.cc](http://ip7.cc) 
+### &#x2705; 99% 是网络环境问题 —— 停用机场！！！
+### &#x1F525;  真实住宅IP · 一店一IP · 全球节点！！
+### &#x26A1;100M—1000M专线独享！
+### &#x2705; 七号网络：为出海护航！
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+## SEGGER支持Codasip RISC-V IP：从开发调试到量产烧录的完整闭环
+描述：本文详解SEGGER工具链（J-Link、Embedded Studio、Ozone、Flasher）对Codasip RISC-V商用IP的深度适配，涵盖调试模块握手、Flash算法定制、复位时序验证、多核调试及量产烧录支持。强调该支持填补RISC-V工程化落地关键缺口，实现从代码编写、调试验证到产线烧录的完整开发闭环，显著降低开发者迁移成本与量产风险。
+相关链接：https://github.com/bakerlouis5900/bak/blob/main/TikTok%E5%BA%97%E9%93%BA%E4%BB%A3%E7%90%86%20-%20TikTok%E5%BA%97%E9%93%BA%E4%BB%A3%E7%90%86%E9%80%89%E8%B4%AD%E6%94%BB%E7%95%A5%EF%BC%9A%E4%BB%B7%E6%A0%BC%E3%80%81%E8%B4%A8%E9%87%8F%E4%B8%8E%E6%80%A7%E4%BB%B7%E6%AF%94.md
+
+## nlp_gte_sentence-embedding_chinese-large效果展示：中文新闻事件实体链接准确率实测
+描述：本文基于nlp_gte_sentence-embedding_chinese-large模型，在100条多领域中文新闻数据上开展实体链接实验，采用余弦相似度检索评估Top-1准确率达89%。重点验证其对歧义实体（如“苹果”“梅西”）的上下文感知能力，并分析模型在链式推理、指代消解及新实体识别等方面的边界。实验表明该模型具备优异的中文语义表征能力，适用于智能问答、新闻聚类与RAG检索等场景。
+来源：https://github.com/beckervincent24/bec/blob/main/%E7%BE%8E%E5%9B%BD%E5%BE%B7%E5%B7%9E%E9%AB%98%E9%80%9F%E4%BD%8F%E5%AE%85IP%E5%9C%B0%E5%9D%80%E5%93%AA%E4%B8%AA%E5%B9%B3%E5%8F%B0%E5%A5%BD%EF%BC%9F%E9%99%84%E5%AF%B9%E6%AF%94%E8%A1%A8.md
+
+## 国内开发者零门槛使用Codex：AI编程代理安装、配置与核心功能实测
+描述：本文详细介绍了OpenAI Codex编程代理在国内环境下的安装、配置与核心功能实测。涵盖CLI命令行工具、桌面应用及IDE插件三种部署方式，重点解决网络访问、认证配置等关键障碍。实测项目结构分析、代码生成与修改、Bug定位修复、Shell命令执行等核心能力，并解析Suggest/Auto Edit/Full Auto三种安全运行模式及API调用方式。强调其轻量本地占用、云端模型依赖特性，以及安全合规使用要点。
+相关链接：https://github.com/bakerlouis5900/bak/blob/main/%E8%80%81%E6%8C%9DClaude%E4%BD%BF%E7%94%A8%E9%9D%99%E6%80%81%E4%BD%8F%E5%AE%85IP%E5%93%AA%E5%AE%B6%E6%9B%B4%E7%A8%B3%E5%AE%9A%EF%BC%9F%E5%AE%9E%E6%B5%8B%E6%95%B0%E6%8D%AE.md
+
+## Eternal Jukebox安全最佳实践：保护你的音乐服务器和API密钥的5个方法 [特殊字符]️
+描述：本文介绍保护Eternal Jukebox音乐服务器的5大安全措施：API密钥安全存储（Spotify/YouTube）、Docker容器安全配置、数据库（H2/MySQL/PostgreSQL）加密与访问控制、反向代理与身份验证增强、日志审计与监控告警。强调环境变量管理、最小权限原则、SSL连接、防火墙策略及应急密钥轮换，适用于自托管音乐服务的安全加固。
+来源：https://github.com/colemanmaria7773/col/blob/main/%E4%BD%8F%E5%AE%85IP%E6%9C%8D%E5%8A%A1%E5%95%86%E8%AF%84%E6%B5%8B%20-%203%E4%B8%AA%E6%A0%87%E5%87%86%E9%81%BF%E5%BC%80%E4%B8%AD%E9%97%B4%E5%95%86.md
+
+## 全球免费开放的电子图书馆
+描述：本文汇总了全球范围内的免费学术资源网站，覆盖多个学科领域，包括电子书籍、期刊文章、研究报告等，旨在为广大研究者和学习者提供丰富的参考资料。
+相关链接：https://github.com/bakerlouis5900/bak/blob/main/AI%E7%BB%98%E7%94%BB%E5%B7%A5%E5%85%B7%E5%8A%A8%E6%80%81%E4%BD%8F%E5%AE%85IP%E5%A4%9A%E5%B0%91%E9%92%B1%EF%BC%9F%E9%81%BF%E5%BC%80%E9%9A%90%E6%80%A7%E6%94%B6%E8%B4%B9%E7%9A%844%E4%B8%AA%E7%BB%86%E8%8A%82.md
+
+## java/jsp/ssm养老院监护服务综合系统【2024年毕设】
+描述：本文介绍了使用Java、SSM框架、JSP等技术开发的项目环境，包括开发工具、数据库、服务器配置等，并列举了2023-2024年针对计算机专业的100个毕业设计源码示例，涵盖多个应用场景，可供学习参考。,
+来源：https://github.com/wigginsfernando3341/wig/blob/main/SHEIN%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%20-%20SHEIN%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%EF%BC%9A%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9%E4%B8%80%E8%A7%88.md
+
+## 全球工时数据一盘棋：如何构建海外员工的统一工时数据中台
+描述：本文探讨出海企业如何通过四层架构（采集层、规则层、集成层、分析层）构建统一工时数据中台，解决跨国数据源异构、本地化规则差异、系统孤岛及GDPR合规等核心问题。重点强调多国劳动法规则引擎、实时指标计算、脱敏聚合传输与高价值场景试点落地策略，支撑HR与CFO实现全球劳动力效能实时洞察与智能决策。
+相关链接：https://github.com/bakerlouis5900/bak/blob/main/%E5%8D%97%E6%AC%A7Perplexity%E4%BD%BF%E7%94%A8%E4%BD%8F%E5%AE%85IP%E6%80%8E%E4%B9%88%E7%94%A8%EF%BC%9F%E6%96%B0%E6%89%8B%E4%B9%9F%E8%83%BD%E8%B7%9F%E7%9D%80%E5%81%9A.md
+
+## 注意：移动终端已成***新目标
+描述：专业移动安全公司LookOut发现一种名为NotCompatible的新Android***程序，该***程序通过被黑的网站散布，对移动设备进行感染。Lookout警告，尽管目前otCompatible不会直接对已安装该程序的装置造成伤害，但可能被用来进入未经授权的私有网路。
+相关链接：https://github.com/bakerlouis5900/bak/blob/main/Telegram%E8%BF%90%E8%90%A5%E5%8A%A8%E6%80%81%E4%BD%8F%E5%AE%85IP%E6%B5%8B%E8%AF%84%20-%20%E9%99%84%E7%9C%9F%E5%AE%9E%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C.md
